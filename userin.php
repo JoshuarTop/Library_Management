@@ -117,6 +117,13 @@
 		}
 		else
 		echo "<script> alert('Username already used !!! Please try again with a diffrent username.'); </script>";
+		<!-- Place the Adsterra ad script here -->
+    <div class="ad-container">
+        <script type='text/javascript' src='//discouragewearinesstourist.com/7c/6f/5d/7c6f5da68cd59879f83e2d48d00023d8.js'></script>
+        <script type="text/javascript">
+            <script type='text/javascript' src='//discouragewearinesstourist.com/70/d4/9d/70d49d87b6390c2a78185140ddc0469c.js'></script>
+        </script>
+    </div>
 	}
 	if(isset($_POST['prinsert'])){
 		$skey=$_POST['skey'];
